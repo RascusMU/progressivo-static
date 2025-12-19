@@ -1,0 +1,4 @@
+document.addEventListener("DOMContentLoaded", function(){ window.addEventListener("DOMContentLoaded", function(){
+	UAGBForms.init( {"block_id":"2dbdb50b","reCaptchaEnable":true,"reCaptchaType":"v3","reCaptchaSiteKeyV2":"","reCaptchaSecretKeyV2":"","reCaptchaSiteKeyV3":"","reCaptchaSecretKeyV3":"","afterSubmitToEmail":"info@progressivo.eu","afterSubmitCcEmail":"","afterSubmitBccEmail":"","afterSubmitEmailSubject":"Z progressivo kontak","sendAfterSubmitEmail":true,"confirmationType":"message","hidereCaptchaBatch":false,"captchaMessage":"Vypl\u0148te pros\u00edm v\u00fd\u0161e uveden\u00fd captcha.","confirmationUrl":""}, '.uagb-block-2dbdb50b', 287 );
+});
+ });
