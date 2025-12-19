@@ -1,0 +1,134 @@
+:root {
+    --transition-speed: 0.3s;
+}
+
+/* Dark Mode Styles */
+body.dark-mode {
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
+}
+
+body.dark-mode .site,
+body.dark-mode .hfeed.site {
+    background-color: #121212 !important;
+}
+
+body.dark-mode .site-header,
+body.dark-mode .main-header-bar,
+body.dark-mode .ast-primary-header-bar {
+    background-color: #1f1f1f !important;
+    color: #fff !important;
+}
+
+body.dark-mode .ast-builder-menu .main-header-menu .menu-item .menu-link {
+    color: #e0e0e0 !important;
+}
+
+body.dark-mode .ast-builder-menu .main-header-menu .menu-item .menu-link:hover,
+body.dark-mode .ast-builder-menu .main-header-menu .menu-item.current-menu-item .menu-link {
+    color: #fff !important;
+}
+
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode h6 {
+    color: #fff !important;
+}
+
+body.dark-mode .entry-content p,
+body.dark-mode .entry-content li {
+    color: #d0d0d0 !important;
+}
+
+body.dark-mode .wp-block-uagb-info-box {
+    background-color: #2a2a2a !important;
+}
+
+body.dark-mode .uagb-ifb-title,
+body.dark-mode .uagb-ifb-desc {
+    color: #e0e0e0 !important;
+}
+
+body.dark-mode .site-footer {
+    background-color: #1a1a1a !important;
+    color: #ccc !important;
+}
+
+body.dark-mode a {
+    color: #61dafb !important;
+}
+
+/* Switcher Container */
+#custom-switchers {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-right: 20px;
+    z-index: 1000;
+}
+
+/* Theme Switcher Button */
+#theme-switcher-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 1.2rem;
+    color: inherit;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform var(--transition-speed);
+}
+
+#theme-switcher-btn:hover {
+    transform: scale(1.1);
+}
+
+#theme-switcher-btn svg {
+    width: 24px;
+    height: 24px;
+    fill: currentColor;
+}
+
+/* Language Switcher */
+#lang-switcher-select {
+    background: transparent;
+    border: 1px solid currentColor;
+    border-radius: 4px;
+    padding: 5px 10px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    color: inherit;
+    outline: none;
+}
+
+#lang-switcher-select option {
+    background-color: #fff;
+    color: #333;
+}
+
+body.dark-mode #lang-switcher-select option {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Smooth transition for theme change */
+body, body * {
+    transition: background-color var(--transition-speed), color var(--transition-speed);
+}
+
+/* Mobile adjustments */
+@media (max-width: 921px) {
+    #custom-switchers {
+        margin-right: 10px;
+    }
+
+    #lang-switcher-select {
+        padding: 2px 5px;
+        font-size: 0.8rem;
+    }
+}

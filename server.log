@@ -1,0 +1,356 @@
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/uploads/astra/astra-theme-dynamic-css-post-283326d.css?ver=1765660864 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks6dd8.css?ver=wc-10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/woocommerce/assets/client/blocks/product-image6dd8.css?ver=wc-10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/astra-local-fonts/astra-local-fonts9eab.css?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/spectra-pro/dist/style-blocksc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/themes/astra/assets/css/minified/main.min9eab.css?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/extensions/global-styles/indexc439.html?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/styles/extensions/popup-builderc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/styles/extensions/modalc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/styles/extensions/dynamic-contentc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/assets/css/aos.minc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-layout-grid.min9eab.css?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min9eab.css?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/wp-ulike/assets/css/wp-ulike.min4a41.css?ver=4.8.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/spectra-v3/build/styles/extensions/image-maskc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/spectra-v3/build/styles/extensions/responsive-controlsc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/spectra-v3/build/styles/extensions/z-indexc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/assets/css/spectra-block-positioning.minc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/spectra-v3/build/styles/extensions/responsive-conditionsc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/uploads/uag-plugin/assets/0/uag-css-283f6c9.css?ver=1765658754 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/themes/astra-child/style4069.css?ver=4.11.3.1750226831 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/uploads/astra-addon/astra-addon-69418b559a6029-02067850e32e.css?ver=4.11.13 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/wp-ulike-pro/public/assets/css/wp-ulike-pro.minc801.css?ver=1.9.3 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/uploads/astra-addon/astra-addon-dynamic-css-post-283326d.css?ver=1765660864 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/astra-addon/addons/nav-menu/assets/css/minified/magamenu-frontend.mine32e.css?ver=4.11.13 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/astra-local-fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVI.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/astra-local-fonts/playfair-display/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/cookie-law-info/lite/frontend/js/wca.minb186.js?ver=3.3.8 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/cookie-law-info/lite/frontend/js/script.minb186.js?ver=3.3.8 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min4082.js?ver=2.7.0-wc.10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/themes/astra/assets/js/minified/flexibility.min9eab.js?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/woocommerce/assets/client/blocks/woocommerce/product-buttoneac7.js?ver=49c70045cc5c5d9e7cf9 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/woocommerce/assets/client/blocks/woocommerce/product-collection41b2.js?ver=f787e90af60381c8b231 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/script-modules/interactivity/index.mind306.js?ver=8964710565a1d258501f HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/woocommerce/assets/client/blocks/%40woocommerce/stores/woocommerce/cart646d.js?ver=ad551d2c148bcc31fb22 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/themes/astra/assets/js/minified/frontend.min9eab.js?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min278d.js?ver=10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/themes/astra/assets/js/minified/mobile-cart.min9eab.js?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/themes/astra/assets/js/minified/add-to-cart-quantity-btn.min9eab.js?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/themes/astra/assets/js/minified/sticky-sidebar.min9eab.js?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/vendor/react.mine1ab.js?ver=18.3.1.1 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/vendor/react-jsx-runtime.mincb06.js?ver=18.3.1 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/vendor/react-dom.mine1ab.js?ver=18.3.1.1 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/dom-ready.min5346.js?ver=f77871ff7694fffea381 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/hooks.minaf5f.js?ver=dd5603f07f9220ed27f1 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/a11y.min1b1c.js?ver=cb460b4676c94bd228ed HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/i18n.min1cde.js?ver=c26c3dc7bed366793375 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/deprecated.min0a8b.js?ver=e1f84915c5e8ae38964c HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/dom.min18d2.js?ver=26edef3be6483da3de2e HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/escape-html.min3a9d.js?ver=6561a406d2d232a6fbd2 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/is-shallow-equal.mincb09.js?ver=e0f9f1d78d83f5196979 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/element.min8eb0.js?ver=6a582b0c827fa25df3dd HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/keycodes.min204c.js?ver=34c8fb5e7a594a1c8037 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/priority-queue.mina9be.js?ver=2d59d091223ee9a33838 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/compose.minbc06.js?ver=7a9b375d8c19cf9d3d9b HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/vendor/moment.minf799.js?ver=2.30.1 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/html-entities.minad9d.js?ver=e8b78b18a162491d5e5f HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/private-apis.min7d42.js?ver=4f465748bda624774139 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/redux-routine.min29d8.js?ver=8bb92d45458b29590f53 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/date.min6d38.js?ver=795a56839718d3ff7eae HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/primitives.min28e8.js?ver=0b5dcc337aa7cbf75570 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/data.min998d.js?ver=f940198280891b0b6318 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/rich-text.minfcf6.js?ver=5bdbb44f3039529e3645 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/warning.min7700.js?ver=d69bc18c456d01c11d5a HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/components.mindbe5.js?ver=ad5cb4227f07a3d422ad HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/url.min5b91.js?ver=9e178c9516d1222dc834 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/extensions/animations/indexdac1.js?ver=cb27b7289f58a45df0b8 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/api-fetch.min7cb7.js?ver=3a4d9af2b423048b0dee HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/blob.mind59a.js?ver=9113eed771d446f4a556 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/shortcode.min0b0d.js?ver=0b3174183b858f2df320 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/blocks.min9f89.js?ver=de131db49fa830bc97da HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/block-serialization-default-parser.min9b19.js?ver=14d44daebf663d05d330 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/autop.min33af.js?ver=9fb50649848277dd318d HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/keyboard-shortcuts.mina961.js?ver=fbc45a34ce65c5723afa HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/commands.minf1a1.js?ver=cac8f4817ab7cea0ac49 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/notices.min0012.js?ver=f62fbf15dcc23301922f HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/preferences.min0337.js?ver=2ca086aed510c242a1ed HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/preferences-persistence.min6ddc.js?ver=e954d3a4426d311f7d1a HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/style-engine.min9044.js?ver=7c6fcedc37dadafb8a81 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/token-list.mincbc1.js?ver=cfdf635a436c3953a965 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/block-editor.min0f59.js?ver=6ab992f915da9674d250 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/media-utils.minff32.js?ver=c66754bed5498afe7050 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/core-data.mina0b4.js?ver=15baadfe6e1374188072 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/extensions/countdown/index61c5.js?ver=e164b3e9507bd47fcab4 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/patterns.min3468.js?ver=4131f04a041db58120d8 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/plugins.min5458.js?ver=039ed87b5b9f7036ceee HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/server-side-render.mincd28.js?ver=7db2472793a2abb97aa5 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/viewport.mina6c1.js?ver=f07b4909c08cfe9de4e2 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/wordcount.mincc22.js?ver=c5b97f11206928ea9130 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-includes/js/dist/editor.minb1d7.js?ver=2239c699a89c6b9bc64f HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/extensions/dynamic-content/index2599.js?ver=72372a0b610c829264db HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/extensions/global-styles/index4555.js?ver=090583f64609696f4c6b HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/extensions/modal/index0b10.js?ver=971dcf541d8dd27e1aaf HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/extensions/popup-builder/index941e.js?ver=018e8fff2cadc9e48959 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/extensions/responsive-controls/index85c2.js?ver=fdfd21eca06316b6655e HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/extensions/slider/indexf770.js?ver=18726b61a26144b3c680 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/aos.minc439.js?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/spectra-v3/assets/js/modal-scriptc439.js?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/spectra-pro/assets/js/loop-builderc439.js?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/assets/js/modal-scriptc439.js?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/spectra-block-positioning.minc439.js?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/spectra-animationsc439.js?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:21] "GET /wp-content/plugins/wp-ulike-pro/public/assets/js/wp-ulike-pro.minc801.js?ver=1.9.3 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:22] "GET /wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min81cb.js?ver=2.7.2-wc.10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:22] "GET /wp-content/plugins/astra-pro-sites/inc/lib/onboarding/assets/dist/template-preview/main7bf5.js?ver=aabd2ae4238bd052108b HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:22] "GET /wp-content/uploads/astra-addon/astra-addon-69418b559aec10-52899091e32e.js?ver=4.11.13 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:22] "GET /wp-content/plugins/astra-addon/assets/js/minified/purify.mine32e.js?ver=4.11.13 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:22] "GET /wp-content/plugins/astra-addon/addons/blog-pro/assets/js/minified/single-autopost-infinite.mine32e.js?ver=4.11.13 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:22] "GET /wp-content/plugins/astra-addon/addons/woocommerce/assets/js/minified/single-product-ajax-cart.mine32e.js?ver=4.11.13 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:22] "GET /wp-content/plugins/woocommerce/assets/js/frontend/wp-consent-api-integration.min278d.js?ver=10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:22] "GET /wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min278d.js?ver=10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:22] "GET /wp-content/plugins/wp-consent-api/assets/js/wp-consent-api.min001e.js?ver=2.0.0 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:22] "GET /wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.mine2e3.js?ver=2.1.4-wc.10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:22] "GET /wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min278d.js?ver=10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:22] "GET /wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min278d.js?ver=10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:22] "GET /js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:22] "GET /wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-smallscreen-grid.min9eab.css?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:22] "GET /wp-content/astra-local-fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVIGxA.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:22] "GET /wp-content/uploads/2025/04/mapa-svetabusines.webp HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:22] "GET /wp-content/uploads/2025/04/gb96b84a7bf13c3a75708dcb3cd721d52ded6ca1e1118740ae04eb9284241b1ab9f40cc508b73fd0ec6f34af17c2c7c4d67e30488daf88f83bff465c5d61648b4_1280-3096 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:22] "GET /wp-content/astra-local-fonts/playfair-display/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:22] "GET /wp-content/astra-local-fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B5OaVIGxA.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:12:24] "GET /locales/en.json HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/themes/astra/assets/css/minified/main.min9eab.css?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/astra-local-fonts/astra-local-fonts9eab.css?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/uploads/astra/astra-theme-dynamic-css-post-283326d.css?ver=1765660864 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/plugins/spectra-pro/dist/style-blocksc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/plugins/woocommerce/assets/client/blocks/product-image6dd8.css?ver=wc-10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks6dd8.css?ver=wc-10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/styles/extensions/dynamic-contentc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/styles/extensions/modalc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/extensions/global-styles/indexc439.html?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/assets/css/aos.minc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-layout-grid.min9eab.css?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/styles/extensions/popup-builderc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min9eab.css?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/plugins/wp-ulike/assets/css/wp-ulike.min4a41.css?ver=4.8.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/spectra-v3/build/styles/extensions/image-maskc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/spectra-v3/build/styles/extensions/responsive-conditionsc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/spectra-v3/build/styles/extensions/responsive-controlsc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/spectra-v3/build/styles/extensions/z-indexc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/assets/css/spectra-block-positioning.minc439.css?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/uploads/uag-plugin/assets/0/uag-css-283f6c9.css?ver=1765658754 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/plugins/wp-ulike-pro/public/assets/css/wp-ulike-pro.minc801.css?ver=1.9.3 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/themes/astra-child/style4069.css?ver=4.11.3.1750226831 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/uploads/astra-addon/astra-addon-69418b559a6029-02067850e32e.css?ver=4.11.13 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/uploads/astra-addon/astra-addon-dynamic-css-post-283326d.css?ver=1765660864 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:47] "GET /wp-content/plugins/astra-addon/addons/nav-menu/assets/css/minified/magamenu-frontend.mine32e.css?ver=4.11.13 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/astra-local-fonts/playfair-display/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/cookie-law-info/lite/frontend/js/wca.minb186.js?ver=3.3.8 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/astra-local-fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVI.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/cookie-law-info/lite/frontend/js/script.minb186.js?ver=3.3.8 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/themes/astra/assets/js/minified/flexibility.min9eab.js?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/woocommerce/assets/client/blocks/woocommerce/product-collection41b2.js?ver=f787e90af60381c8b231 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/script-modules/interactivity/index.mind306.js?ver=8964710565a1d258501f HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min4082.js?ver=2.7.0-wc.10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/woocommerce/assets/client/blocks/%40woocommerce/stores/woocommerce/cart646d.js?ver=ad551d2c148bcc31fb22 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/woocommerce/assets/client/blocks/woocommerce/product-buttoneac7.js?ver=49c70045cc5c5d9e7cf9 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/themes/astra/assets/js/minified/frontend.min9eab.js?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min278d.js?ver=10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/themes/astra/assets/js/minified/add-to-cart-quantity-btn.min9eab.js?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/themes/astra/assets/js/minified/mobile-cart.min9eab.js?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/vendor/react.mine1ab.js?ver=18.3.1.1 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/themes/astra/assets/js/minified/sticky-sidebar.min9eab.js?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/vendor/react-jsx-runtime.mincb06.js?ver=18.3.1 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/vendor/react-dom.mine1ab.js?ver=18.3.1.1 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/i18n.min1cde.js?ver=c26c3dc7bed366793375 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/a11y.min1b1c.js?ver=cb460b4676c94bd228ed HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/hooks.minaf5f.js?ver=dd5603f07f9220ed27f1 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/deprecated.min0a8b.js?ver=e1f84915c5e8ae38964c HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/dom-ready.min5346.js?ver=f77871ff7694fffea381 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/keycodes.min204c.js?ver=34c8fb5e7a594a1c8037 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/dom.min18d2.js?ver=26edef3be6483da3de2e HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/element.min8eb0.js?ver=6a582b0c827fa25df3dd HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/is-shallow-equal.mincb09.js?ver=e0f9f1d78d83f5196979 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/escape-html.min3a9d.js?ver=6561a406d2d232a6fbd2 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/priority-queue.mina9be.js?ver=2d59d091223ee9a33838 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/compose.minbc06.js?ver=7a9b375d8c19cf9d3d9b HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/vendor/moment.minf799.js?ver=2.30.1 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/date.min6d38.js?ver=795a56839718d3ff7eae HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/html-entities.minad9d.js?ver=e8b78b18a162491d5e5f HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/private-apis.min7d42.js?ver=4f465748bda624774139 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/primitives.min28e8.js?ver=0b5dcc337aa7cbf75570 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/redux-routine.min29d8.js?ver=8bb92d45458b29590f53 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/data.min998d.js?ver=f940198280891b0b6318 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/rich-text.minfcf6.js?ver=5bdbb44f3039529e3645 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/warning.min7700.js?ver=d69bc18c456d01c11d5a HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/components.mindbe5.js?ver=ad5cb4227f07a3d422ad HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/extensions/animations/indexdac1.js?ver=cb27b7289f58a45df0b8 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/url.min5b91.js?ver=9e178c9516d1222dc834 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/blob.mind59a.js?ver=9113eed771d446f4a556 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/api-fetch.min7cb7.js?ver=3a4d9af2b423048b0dee HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/block-serialization-default-parser.min9b19.js?ver=14d44daebf663d05d330 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/autop.min33af.js?ver=9fb50649848277dd318d HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/shortcode.min0b0d.js?ver=0b3174183b858f2df320 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/preferences-persistence.min6ddc.js?ver=e954d3a4426d311f7d1a HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/commands.minf1a1.js?ver=cac8f4817ab7cea0ac49 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/blocks.min9f89.js?ver=de131db49fa830bc97da HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/notices.min0012.js?ver=f62fbf15dcc23301922f HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/keyboard-shortcuts.mina961.js?ver=fbc45a34ce65c5723afa HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/preferences.min0337.js?ver=2ca086aed510c242a1ed HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/style-engine.min9044.js?ver=7c6fcedc37dadafb8a81 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/core-data.mina0b4.js?ver=15baadfe6e1374188072 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/token-list.mincbc1.js?ver=cfdf635a436c3953a965 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/block-editor.min0f59.js?ver=6ab992f915da9674d250 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/extensions/countdown/index61c5.js?ver=e164b3e9507bd47fcab4 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/media-utils.minff32.js?ver=c66754bed5498afe7050 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/patterns.min3468.js?ver=4131f04a041db58120d8 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/plugins.min5458.js?ver=039ed87b5b9f7036ceee HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/viewport.mina6c1.js?ver=f07b4909c08cfe9de4e2 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/server-side-render.mincd28.js?ver=7db2472793a2abb97aa5 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/extensions/dynamic-content/index2599.js?ver=72372a0b610c829264db HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/extensions/modal/index0b10.js?ver=971dcf541d8dd27e1aaf HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/editor.minb1d7.js?ver=2239c699a89c6b9bc64f HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/extensions/popup-builder/index941e.js?ver=018e8fff2cadc9e48959 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/extensions/global-styles/index4555.js?ver=090583f64609696f4c6b HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-includes/js/dist/wordcount.mincc22.js?ver=c5b97f11206928ea9130 HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/extensions/responsive-controls/index85c2.js?ver=fdfd21eca06316b6655e HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/build/extensions/slider/indexf770.js?ver=18726b61a26144b3c680 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/spectra-v3/assets/js/modal-scriptc439.js?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/aos.minc439.js?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/spectra-pro/assets/js/loop-builderc439.js?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/spectra-block-positioning.minc439.js?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/spectra-pro/spectra-pro-v2/assets/js/modal-scriptc439.js?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/spectra-animationsc439.js?ver=3.0.0-beta.1 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/wp-ulike-pro/public/assets/js/wp-ulike-pro.minc801.js?ver=1.9.3 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/astra-pro-sites/inc/lib/onboarding/assets/dist/template-preview/main7bf5.js?ver=aabd2ae4238bd052108b HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/astra-addon/assets/js/minified/purify.mine32e.js?ver=4.11.13 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/uploads/astra-addon/astra-addon-69418b559aec10-52899091e32e.js?ver=4.11.13 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/astra-addon/addons/blog-pro/assets/js/minified/single-autopost-infinite.mine32e.js?ver=4.11.13 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min81cb.js?ver=2.7.2-wc.10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/astra-addon/addons/woocommerce/assets/js/minified/single-product-ajax-cart.mine32e.js?ver=4.11.13 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min278d.js?ver=10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min278d.js?ver=10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/wp-consent-api/assets/js/wp-consent-api.min001e.js?ver=2.0.0 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/woocommerce/assets/js/frontend/wp-consent-api-integration.min278d.js?ver=10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.mine2e3.js?ver=2.1.4-wc.10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min278d.js?ver=10.4.2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/uploads/2025/04/mapa-svetabusines.webp HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-smallscreen-grid.min9eab.css?ver=4.11.18 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/astra-local-fonts/playfair-display/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/astra-local-fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVIGxA.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/uploads/2025/04/gb96b84a7bf13c3a75708dcb3cd721d52ded6ca1e1118740ae04eb9284241b1ab9f40cc508b73fd0ec6f34af17c2c7c4d67e30488daf88f83bff465c5d61648b4_1280-3096 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:48] "GET /wp-content/astra-local-fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B5OaVIGxA.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2025 22:15:50] "GET /locales/en.json HTTP/1.1" 200 -
