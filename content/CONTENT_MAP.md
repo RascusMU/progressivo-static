@@ -77,3 +77,21 @@
   Typ: Právní dokument
   Popis: Podmínky užívání platformy Progressivo Corp.
   Zdroj: /smluvni-podminky/index.html
+
+
+## Blog
+
+- **blog/analyza-dna.md**
+  Typ: Článek
+  Popis: Analýza DNA
+  Zdroj: /analyza-dna/index.html
+
+- **blog/reality-viza-a-expatriace.md**
+  Typ: Článek
+  Popis: Svět je připraven stát se vaším novým domovem
+  Zdroj: /935-2/index.html
+
+- **blog/nove-moznosti.md**
+  Typ: Článek
+  Popis: Možnosti růstu a úspěchu s námi
+  Zdroj: /nove-moznosti/index.html
