@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nákladní technika - Progressivo Corp.</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="main-header-bar">
+            <div class="site-branding">
+                <a href="index.html">
+                    <img src="images/Transparent-Logo-2-260x174.png" alt="Progressivo Corp.">
+                </a>
+            </div>
+            <button class="menu-toggle" aria-label="Menu">☰</button>
+            <nav class="main-navigation">
+                <ul>
+                    <li><a href="index.html">Domů</a></li>
+                    <li><a href="o-nas.html">O nás</a></li>
+                    <li><a href="sluzby.html">Služby</a></li>
+                    <li><a href="blog/index.html">Blog</a></li>
+                    <li><a href="kontakt.html">Kontakt</a></li>
+                    <li><a href="https://domitoo.progressivo.eu/" target="_blank">DomiToo</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="service-detail">
+        <img src="images/IMG_4393.webp" alt="Nákladní technika" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 30px;">
+        <h1>Nákladní technika</h1>
+        <p>Specializujeme se na nákup a dovoz nákladních vozidel ze zahraničí. Zajistíme pro vás kvalitní stroje za výhodné ceny.</p>
+
+        <div style="margin: 30px 0;">
+            <h3>Výhody naší služby:</h3>
+            <ul style="list-style-type: disc; padding-left: 20px;">
+                <li>Použité modely všech renomovaných značek</li>
+                <li>Ceny již od 1.200.000 Kč</li>
+                <li>Kompletní servis při dovozu a přihlášení</li>
+            </ul>
+        </div>
+
+        <div class="form-section">
+            <h2 style="margin-top: 0;">Poptávka vozidla</h2>
+            <form action="https://api.web3forms.com/submit" method="POST">
+                <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE">
+                <input type="hidden" name="subject" value="Poptávka - Nákladní technika">
+
+                <input type="text" name="name" placeholder="Jméno" required>
+                <input type="email" name="email" placeholder="Email" required>
+                <input type="tel" name="phone" placeholder="Telefon" required>
+
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
+                    <input type="text" name="vehicle_type" placeholder="Typ vozidla (např. tahač, sklápěč)">
+                    <input type="text" name="brand" placeholder="Preferovaná značka">
+                </div>
+                <input type="text" name="budget" placeholder="Orientační rozpočet">
+
+                <textarea name="message" rows="4" placeholder="Doplňující informace..." required></textarea>
+                <button type="submit">Odeslat poptávku</button>
+            </form>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <p>&copy; 2025 Progressivo Corp.</p>
+    </footer>
+    <script src="js/main.js"></script>
+    <script src="js/contact-form.js"></script>
+</body>
+</html>

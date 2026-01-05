@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analýza DNA - Progressivo Corp.</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="main-header-bar">
+            <div class="site-branding">
+                <a href="index.html">
+                    <img src="images/Transparent-Logo-2-260x174.png" alt="Progressivo Corp.">
+                </a>
+            </div>
+            <button class="menu-toggle" aria-label="Menu">☰</button>
+            <nav class="main-navigation">
+                <ul>
+                    <li><a href="index.html">Domů</a></li>
+                    <li><a href="o-nas.html">O nás</a></li>
+                    <li><a href="sluzby.html">Služby</a></li>
+                    <li><a href="blog/index.html">Blog</a></li>
+                    <li><a href="kontakt.html">Kontakt</a></li>
+                    <li><a href="https://domitoo.progressivo.eu/" target="_blank">DomiToo</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="service-detail">
+        <img src="images/g52543931d9244d74978ce65d94eace194792a76dbd37490d150e10bad3c0f1c8251c7ec68fcbce131e625f41b70cabc43cdac1eef10ecc145f5139743ac83d05_1280-3144.jpg" alt="DNA Analýza" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 30px;">
+        <h1>Analýza DNA</h1>
+        <p>Odhalte tajemství svého původu a genetické kořeny. Naše DNA testy vám poskytnou fascinující pohled do vaší rodinné historie.</p>
+
+        <div style="margin: 30px 0;">
+            <h3>Proč si nechat udělat test?</h3>
+            <ul style="list-style-type: disc; padding-left: 20px;">
+                <li>Odhalení etnického původu</li>
+                <li>Nalezení příbuzných a rodinné historie</li>
+                <li>Pochopení vašich genetických predispozic</li>
+            </ul>
+        </div>
+
+        <div class="form-section">
+            <h2 style="margin-top: 0;">Objednat test</h2>
+            <form action="https://api.web3forms.com/submit" method="POST">
+                <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE">
+                <input type="hidden" name="subject" value="Poptávka - DNA Test">
+
+                <input type="text" name="name" placeholder="Jméno" required>
+                <input type="email" name="email" placeholder="Email" required>
+                <input type="tel" name="phone" placeholder="Telefon" required>
+
+                <select name="test_type">
+                    <option value="">Vyberte typ testu</option>
+                    <option value="Původ">Původ a etnicita</option>
+                    <option value="Zdraví">Zdraví a predispozice</option>
+                    <option value="Kompletní">Kompletní analýza</option>
+                </select>
+
+                <textarea name="message" rows="4" placeholder="Specifické požadavky..." required></textarea>
+                <button type="submit">Odeslat poptávku</button>
+            </form>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <p>&copy; 2025 Progressivo Corp.</p>
+    </footer>
+    <script src="js/main.js"></script>
+    <script src="js/contact-form.js"></script>
+</body>
+</html>

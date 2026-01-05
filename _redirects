@@ -1,0 +1,29 @@
+# WordPress redirect cleanup
+/wp-content/* /images/:splat 301
+/wp-includes/* / 301
+
+# E-shop redirects
+/shop/* /sluzby.html 301
+/product/* /sluzby.html 301
+/cart /kontakt.html 301
+/checkout /kontakt.html 301
+/obchod /sluzby.html 301
+
+# Basic pages
+/about /o-nas.html 301
+/contact /kontakt.html 301
+/services /sluzby.html 301
+
+# Services
+/nakladni-technika /nakladni-technika.html 200
+/expatriace /expatriace.html 200
+/analyza-dna /analyza-dna.html 200
+/online-kurzy /online-kurzy.html 200
+/it-preklady /it-preklady.html 200
+
+# Blog
+/blog /blog/index.html 200
+/blog/* /blog/:splat 200
+
+# DomiToo subdomain
+/domitoo/* https://domitoo.progressivo.eu/:splat 301

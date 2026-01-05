@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IT Help a překlady - Progressivo Corp.</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="main-header-bar">
+            <div class="site-branding">
+                <a href="index.html">
+                    <img src="images/Transparent-Logo-2-260x174.png" alt="Progressivo Corp.">
+                </a>
+            </div>
+            <button class="menu-toggle" aria-label="Menu">☰</button>
+            <nav class="main-navigation">
+                <ul>
+                    <li><a href="index.html">Domů</a></li>
+                    <li><a href="o-nas.html">O nás</a></li>
+                    <li><a href="sluzby.html">Služby</a></li>
+                    <li><a href="blog/index.html">Blog</a></li>
+                    <li><a href="kontakt.html">Kontakt</a></li>
+                    <li><a href="https://domitoo.progressivo.eu/" target="_blank">DomiToo</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="service-detail">
+        <img src="images/pexels-photo-34600-scaled.jpg" alt="IT služby" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 30px;">
+        <h1>IT Help a Překlady</h1>
+        <p>Potřebujete technickou podporu nebo kvalitní překlad? Jsme tu pro vás. Nabízíme komplexní IT služby a rychlé překlady textů.</p>
+
+        <div style="margin: 30px 0;">
+            <h3>Naše služby:</h3>
+            <ul style="list-style-type: disc; padding-left: 20px;">
+                <li>Profesionální IT specialisté</li>
+                <li>Rychlé a přesné překlady textů</li>
+                <li>Komplexní řešení pro vaše podnikání</li>
+            </ul>
+        </div>
+
+        <div class="form-section">
+            <h2 style="margin-top: 0;">Zadat požadavek</h2>
+            <form action="https://api.web3forms.com/submit" method="POST">
+                <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE">
+                <input type="hidden" name="subject" value="Poptávka - IT/Překlady">
+
+                <input type="text" name="name" placeholder="Jméno" required>
+                <input type="email" name="email" placeholder="Email" required>
+                <input type="tel" name="phone" placeholder="Telefon" required>
+
+                <select name="service_category">
+                    <option value="">Vyberte službu</option>
+                    <option value="IT">IT podpora / Služby</option>
+                    <option value="Překlady">Překlady textů</option>
+                    <option value="Obojí">Kombinace obou</option>
+                </select>
+
+                <input type="text" name="language" placeholder="Jazyk (pouze pro překlady)">
+
+                <textarea name="message" rows="4" placeholder="Popis požadavku..." required></textarea>
+                <button type="submit">Odeslat</button>
+            </form>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <p>&copy; 2025 Progressivo Corp.</p>
+    </footer>
+    <script src="js/main.js"></script>
+    <script src="js/contact-form.js"></script>
+</body>
+</html>

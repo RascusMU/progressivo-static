@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online kurzy - Progressivo Corp.</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="main-header-bar">
+            <div class="site-branding">
+                <a href="index.html">
+                    <img src="images/Transparent-Logo-2-260x174.png" alt="Progressivo Corp.">
+                </a>
+            </div>
+            <button class="menu-toggle" aria-label="Menu">☰</button>
+            <nav class="main-navigation">
+                <ul>
+                    <li><a href="index.html">Domů</a></li>
+                    <li><a href="o-nas.html">O nás</a></li>
+                    <li><a href="sluzby.html">Služby</a></li>
+                    <li><a href="blog/index.html">Blog</a></li>
+                    <li><a href="kontakt.html">Kontakt</a></li>
+                    <li><a href="https://domitoo.progressivo.eu/" target="_blank">DomiToo</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="service-detail">
+        <img src="images/studenti1.webp" alt="Online kurzy" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 30px;">
+        <h1>Online kurzy a doučování</h1>
+        <p>Vzdělávání pro všechny věkové kategorie z pohodlí domova. Ve spolupráci s <a href="https://itutoring.cz/" target="_blank">itutoring.cz</a>.</p>
+
+        <div style="margin: 30px 0;">
+            <h3>Co nabízíme:</h3>
+            <ul style="list-style-type: disc; padding-left: 20px;">
+                <li>Lekce v délce 45-90 minut</li>
+                <li>Interaktivní výuka přizpůsobená vašim potřebám</li>
+                <li>IT kurzy, jazykové lekce a doučování školních předmětů</li>
+            </ul>
+        </div>
+
+        <div class="form-section">
+            <h2 style="margin-top: 0;">Přihlásit se</h2>
+            <form action="https://api.web3forms.com/submit" method="POST">
+                <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE">
+                <input type="hidden" name="subject" value="Poptávka - Online kurz">
+
+                <input type="text" name="name" placeholder="Jméno" required>
+                <input type="email" name="email" placeholder="Email" required>
+                <input type="tel" name="phone" placeholder="Telefon" required>
+
+                <select name="course_type">
+                    <option value="">Vyberte typ kurzu</option>
+                    <option value="IT">IT a programování</option>
+                    <option value="Jazyky">Jazyky</option>
+                    <option value="Doučování">Doučování (ZŠ/SŠ)</option>
+                </select>
+
+                <input type="text" name="level" placeholder="Úroveň (např. začátečník, B2...)">
+
+                <textarea name="message" rows="4" placeholder="Vaše cíle a požadavky..." required></textarea>
+                <button type="submit">Odeslat přihlášku</button>
+            </form>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <p>&copy; 2025 Progressivo Corp.</p>
+    </footer>
+    <script src="js/main.js"></script>
+    <script src="js/contact-form.js"></script>
+</body>
+</html>

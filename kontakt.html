@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kontakt - Progressivo Corp.</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="main-header-bar">
+            <div class="site-branding">
+                <a href="index.html">
+                    <img src="images/Transparent-Logo-2-260x174.png" alt="Progressivo Corp.">
+                </a>
+            </div>
+            <button class="menu-toggle" aria-label="Menu">☰</button>
+            <nav class="main-navigation">
+                <ul>
+                    <li><a href="index.html">Domů</a></li>
+                    <li><a href="o-nas.html">O nás</a></li>
+                    <li><a href="sluzby.html">Služby</a></li>
+                    <li><a href="blog/index.html">Blog</a></li>
+                    <li><a href="kontakt.html">Kontakt</a></li>
+                    <li><a href="https://domitoo.progressivo.eu/" target="_blank">DomiToo</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <h1 class="text-center">Kontaktujte nás</h1>
+        <p class="text-center mb-40">Máte dotaz? Vyplňte formulář níže a my se vám ozveme co nejdříve.</p>
+
+        <div class="form-section">
+            <form action="https://api.web3forms.com/submit" method="POST">
+                <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE">
+                <input type="hidden" name="subject" value="Nová zpráva z kontaktního formuláře">
+
+                <input type="text" name="name" placeholder="Jméno a příjmení" required>
+                <input type="email" name="email" placeholder="Váš email" required>
+                <input type="tel" name="phone" placeholder="Telefon">
+                <textarea name="message" rows="5" placeholder="Vaše zpráva..." required></textarea>
+
+                <button type="submit">Odeslat zprávu</button>
+            </form>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <p>&copy; 2025 Progressivo Corp.</p>
+    </footer>
+    <script src="js/main.js"></script>
+    <script src="js/contact-form.js"></script>
+</body>
+</html>
